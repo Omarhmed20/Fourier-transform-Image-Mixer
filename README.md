@@ -1,1 +1,1 @@
-# Fourier-transform-Image-Mixer
+# Fourier transform Image Mixer
